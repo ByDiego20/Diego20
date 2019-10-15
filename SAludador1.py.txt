@@ -1,0 +1,15 @@
+def saludador():
+    print "hola"
+    print"que tal"
+    print"disfruta del programa"
+
+saludador()
+
+def saludador():
+    print "hola amigo"#instruccion de salida
+    nombre= raw_input ("¿como te llamas?") #instruccion de salida
+    print ("bienvenido a python" + nombre)
+
+saludador()
+
+
